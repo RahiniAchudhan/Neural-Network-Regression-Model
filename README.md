@@ -44,8 +44,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name:
-### Register Number:
+### Name: Rahini A
+### Register Number: 212223230165
 ```python
 class NeuralNet(nn.Module):
     def __init__(self):
@@ -90,18 +90,21 @@ def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 ```
 ## Dataset Information
 
-Include screenshot of the dataset
+![Screenshot (419)](https://github.com/user-attachments/assets/de2e88ee-dba8-4227-a490-301c0ab935c2)
+
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-Include your plot here
+![Screenshot (420)](https://github.com/user-attachments/assets/2b47e6cc-5346-4ef1-9aaf-799813e88e6a)
+
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+
+![Screenshot (421)](https://github.com/user-attachments/assets/a75247ef-afb4-4522-84be-6b34f3e5f316)
 
 ## RESULT
 
-Include your result here
+The neural network regression model was successfully trained and evaluated. The model demonstrated strong predictive performance on unseen data, with a low error rate.
